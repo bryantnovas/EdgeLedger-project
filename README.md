@@ -17,4 +17,4 @@ Also uses features like:
 * JQuery Animations
 * API calls
 
-[You can also find the live version here](https://floating-shore-29351.herokuapp.com/)
+[You can also find the live version here](https://quiet-ocean-04802.herokuapp.com/)
