@@ -1,4 +1,4 @@
-#EdgeLedger Project
+# EdgeLedger Project
 
 This is a mock financial website designed as a responsive site using the following technologies:
 
@@ -17,4 +17,4 @@ Also uses features like:
 * JQuery Animations
 * API calls
 
-[You can also find the live version here](https://www.google.com)
+[You can also find the live version here](https://floating-shore-29351.herokuapp.com/)
